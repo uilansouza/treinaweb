@@ -1,4 +1,5 @@
 <?php
+//Esse algoritomo será alterado
 
 //No algoritmo abaixo consideramos o CPF como (a b c d e f g h i ­ d1 d2)
 

@@ -1,6 +1,6 @@
 <?php
 $i=50;
-
+//Verificar os cadastros que serão colocados
 ?>
 <br>
 DIGITE OS NUMEROS DO SEU CPF<BR>
